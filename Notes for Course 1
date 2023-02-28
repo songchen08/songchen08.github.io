@@ -1,0 +1,25 @@
+# Notes for Course 1 on Feb.23
+
+Gene and genome
+- gene: whose basis is information
+- the central dogma: information propagation
+Base pairs are the code for life, while not big genomes mean evolutionary advance.
+A counter-intuitive fact: nearly 3/4 of the genome is transcribed, most of which are previously considered useless. Many RNA molecules are synthesized with potential functions. lncRNAs are now thought to carry out important functions.
+
+Sequencing technologies 
+- undergo revolution in recent years.
+- provide big and high-dimension data
+
+What do bioinformatics do?
+-Data Problems:
+-Representation (graphics) 
+-Storage and retrieval (databases) 
+-Analysis method (statistics, artificial intelligence, optimization, etc.) 
+-Biology Problems: 
+-Interpreting biological sequences
+-Predicting structure or function
+-Mining clinical (i.e. cancer) data/information
+
+Information --> model --> algorithms
+
+在我看来，model是对于某一具体问题的内在数学关系和逻辑关系的概括，尊重客观事实，并随着不同概念的提出而不断做出修正。model很大程度上基于数学，尤其是概率和统计学的内容。而algorithm则是问题的具体解决方案，强调解决问题的清晰指令和策略要求，应当具有一定的普适性和适应性。algorithm应当是基于计算科学，追求更高的效率和过程的简明。我认为model和algorithm应该是解决问题的不同阶段所使用的工具和方法论，model往往被用于描述问题，帮助其他研究者快速理清问题的本质，构建起清晰的框架，经得起实践的检验；而algorithm则是认清问题后总结出的“解题范式”，具有归并和统筹的潜力，帮助研究者举一反三，在实践中不断优化，取得更高的效率和更广阔的应用范围。
